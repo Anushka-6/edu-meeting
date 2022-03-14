@@ -1829,3 +1829,8 @@ responsive
   }
 
 }
+#google_translate_element
+{
+  max-width: 90px;
+  -webkit-font-smoothing: antialiased;
+}

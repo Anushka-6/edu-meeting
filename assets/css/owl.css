@@ -184,3 +184,11 @@
   z-index: 1;
   height: 100%;
   width: 100%; }
+
+.circ{
+  height: 60px;
+  width: 60px;
+  padding: 7px;
+  border: 2px solid #f5a425;
+  border-radius: 50%;
+}
